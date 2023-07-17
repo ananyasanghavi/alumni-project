@@ -15,9 +15,9 @@ export const Register = () => {
          <form action="#" className='register' style={{alignItems:'center'}}>
             <input type="text" placeholder="Full Name" required />
             <input type="email" placeholder="Email id"/>
-            <input type="number" placeholder="Phone No."/>
+            <input type="text" placeholder="Phone No."/>
             <input type="text" placeholder="College" />
-            <input type="number" placeholder="Branch"/>
+            <input type="text" placeholder="Branch"/>
             <input type="text" placeholder="Batch Year"/>
             <textarea placeholder='About You'/>
             <input type='text' placeholder='City'/>
